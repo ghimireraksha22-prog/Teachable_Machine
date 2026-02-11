@@ -1,5 +1,4 @@
-# Teachable_Machine
-Supervised learning
+https://teachablemachine.withgoogle.com/models/F9Ta8aApi/
 Here is a comprehensive `README.md` template for your Teachable Machine model.
 
 Since I couldn't automatically extract the specific class names (e.g., "Cat," "Dog") from the link, **you will need to fill in the "Class Labels" section** with the specific categories your model detects.
